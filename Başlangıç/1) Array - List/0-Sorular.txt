@@ -1,0 +1,27 @@
+En temel dizi işlemleri Soru1 - Soru6
+
+1- n elemanlı bir dizide x rakamını arayan algoritma     // ara
+
+2- Diziye eleman ekleme                                  // ekle
+
+3- Dizinin k. elemanına x sayısını yerleştiren algoritma // güncelle
+
+4- Dizinin k. elemanını silen algoritma?                 // sil
+
+5- Dizideki elemanları sıralayan algoritma               // sırala
+ 
+6- İki farklı diziyi birleştir                           // birleştir
+
+
+
+7- Dizide en sık tekrar eden sayıyı bulunuz?
+
+8- Dizide birden fazla tekrar eden rakamları silen program?
+
+9- N elemanlı dizinin minimum ve maksimum değerlerini bulunuz?
+
+10- Dizinin ortalamasını bulun
+
+11- Dizinin min ve max değerlerini bulun
+
+

@@ -1,0 +1,11 @@
+1- İki Matrisin toplamı ?
+
+2- Matrisin satır ve sütun toplamlarını hesaplayınız?       
+
+3- Matristeki en büyük sayıyı bulan program?
+
+4- Matris izini (diyagonal toplam) bul?
+
+5- Girilen N değerine göre NxN boyutlu bir matrisin hücrelerine 1 den NxN'e kadar sayıları yerleştir.
+
+6- Verilen sayıyı matrisin k. indeksine yerleştir?

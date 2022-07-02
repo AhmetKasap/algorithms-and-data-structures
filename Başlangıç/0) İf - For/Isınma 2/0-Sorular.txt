@@ -1,0 +1,22 @@
+2- Klavyeden girilen 3 basamaklı sayının 1. 2. ve 3. basamağın basamak değerlerini yazdıran algoritma
+
+3- Girilen gün sayısını yıl, hafta ve gün olarak yazan algoritma
+
+4- Girilen üç basamaklı sayıyı tersine çeviren algoritma
+
+6- İki sayının farkının mutlak değerini bulan algoritma
+
+7- Kullanıcının girdiği üç sayıdan büyük olanını yazdıran algoritma
+----------------------------------------------------------------------------------------------------------
+
+
+15- Girilen 5 sayının enbüyük ve enküçüğün farkını hesaplayan algoritma
+
+
+17- Girilen sayının Pronic olup olmadığını bulan algoritma
+
+18- 1-n arasındaki aynalı asal sayıları (örn 79 ve 97 ikiside asal, ancak 43 ve 34 asal değil bir sayı asal olacak terside asal olacak) bulan algoritma
+
+19- 1-n arasındaki Mükemmel sayıları (bölenlerinin toplamı kendine eşit) bulan algoritma 
+
+20- Klavyeden girilen sayının basamak sayısını ve basamak değerlerini ekrana yazdıran algoritma ?

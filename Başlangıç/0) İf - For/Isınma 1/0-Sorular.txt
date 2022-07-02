@@ -1,0 +1,34 @@
+1- Girilen iki sayıyı toplayıp yazdıran algoritma
+
+2- Verilen tamsayının sıfır, pozitif ya da negatif olup olmadığını bulan algoritma
+
+----------------------------------------------------------------------------------------------------------
+
+3- 1 - 100 Arasındaki tek ve çift sayıları ekrana yazdıran algoritma
+
+4- Klavyeden girilen a ve b sayıları arasındaki sayıları listeleyen algoritma
+
+5- Klavyeden girilen bir sayının tam bölenlerinin bulunması
+
+6- a^b yi hesaplayan algoritma 
+
+7- 1 ile 100 arasındaki sayıları toplayan algoritma 
+
+8- Girilen sayının faktöriyelini hesaplayan algoritma
+
+9- Girilen bir sayının asal olup olmadığını bulan algoritma
+
+10- Girilen n değerine göre Fibonacci serisinin n terimini hesaplayan algoritma ( 1  1  2  3  5  8 ...)
+
+
+
+
+
+
+
+
+
+
+
+
+

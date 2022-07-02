@@ -1,0 +1,3 @@
+1- faktöriyel hesapla       
+
+2- Fibonacci n terimini hesapla 
